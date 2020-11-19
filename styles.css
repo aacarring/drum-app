@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(241, 217, 164);
+}
+.title {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    margin-top: 20px;
+    font-size: 3rem;
+    margin-bottom: 50px;
+}
+.drums {
+    width: 100vw;
+    margin: 0 auto;
+    text-align: center;
+}
+.drums input {
+    width: 10vw;
+    height: 20vh;
+    margin: 50px 0;
+}
